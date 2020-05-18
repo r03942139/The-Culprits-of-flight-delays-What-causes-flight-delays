@@ -16,7 +16,7 @@ pip install seaborn
 ## Authors
 
 * **SangHyeon Lee** - [GitHub](https://github.com/Sanghyeon16) - [LinkedIn](https://www.linkedin.com/in/sanghyeon/)
-* **Bo Wang** - [GitHub]()- [LinkedIn](https://www.linkedin.com/in/bo-wang-b57296162/)
+* **Bo Wang** - [GitHub](https://github.com/FrancoisMoreau)- [LinkedIn](https://www.linkedin.com/in/bo-wang-b57296162/)
 * **Hung-Yi Chen** - [GitHub](https://github.com/r03942139) - [LinkedIn](https://www.linkedin.com/in/hung-yi-chen-958616118/)
 * **Ming-Hsien Chien(Dexter)** - [GitHub](https://github.com/marsii1017) - [LinkedIn](https://www.linkedin.com/in/minghsienchien/)
 * **Yusu Wang** - [LinkedIn](https://www.linkedin.com/in/yusu-wang-b83776138/)
